@@ -1,2 +1,2 @@
-# LGMVIPJune-Task-10
-LetsGrowMore Data Science Internship Task  
+# ML-Face-Recognition
+ML-Face-Recognition and suggesting songs based on mood using MAchine Learning
